@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(255, 255, 255);
+  }
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+.logo {
+    border-radius: 18px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+.stable {
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    text-align: left;
+    border-spacing: 10px;
+    background-color: antiquewhite;
+    border-radius: 15px;
+    width: 400px;
+  }
+.members {
+    text-align: center;
+    
+}
+@media (max-width: 700px){
+    .logo {
+        display: block;
+    }
+    .stable {
+        display: block;
+    }
+    .members {
+        display: block;
+    }
+}
+.tmembers {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin: ;
+}
+h3 {
+    text-align: center;
+}
